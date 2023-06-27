@@ -1,5 +1,5 @@
 ## RISCLIP: Referring Image Segmentation Framework using CLIP
-Official implementation of RISCLIP: Referring Image Segmentation Framework using CLIP.
+Official implementation of RISCLIP: Referring Image Segmentation Framework using CLIP. <br>
 :construction: **Code and Data Coming Soon** :construction:
 
 <p align="center">
